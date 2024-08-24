@@ -1,6 +1,6 @@
 # PORTAFOLIO
 
-# Hola, soy [Jesus Zqmudio] 👋
+# Hola, soy [Jesus Zamudio] 👋
 
 Soy un estudiante de Ingeniería de Sistemas apasionado por la **Seguridad Informática**, **Ciencia de Datos** y **Machine Learning**. A lo largo de mi carrera universitaria, he adquirido conocimientos 
 sólidos en estas áreas, y he aplicado estos conocimientos en diversos proyectos que puedes encontrar en este repositorio.
