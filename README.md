@@ -21,7 +21,6 @@ Oportunidades de prácticas pre-profesionales donde pueda aplicar y expandir mis
 
 ### 📫 Contáctame
 - **Email**: [](zamudioxyz1808@gmail.com / correozamudio3210@gmail.com )
-- **LinkedIn**: [](www.linkedin.com/in/jesus-zamudio-martinez-156599260)
-- **Portafolio**: [Tu Portafolio]()
+- **LinkedIn**: []( www.linkedin.com/in/jesus-zamudio-martinez-156599260 )
 
 ¡Gracias por visitar mi GitHub! Siéntete libre de explorar mis proyectos y no dudes en contactarme si tienes alguna pregunta o colaboración en mente.
