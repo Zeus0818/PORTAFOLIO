@@ -1,8 +1,8 @@
-# PORTAFOLIO
+# PRESENTACION
 
 # Hola, soy [Jesus Zamudio] 👋
 
-Soy un estudiante de Ingeniería de Sistemas apasionado por la **Seguridad Informática**, **Ciencia de Datos** y **Machine Learning**. A lo largo de mi carrera universitaria, he adquirido conocimientos 
+Soy bachiller en Ingeniería de Sistemas apasionado por la **Seguridad Informática**, **Ciencia de Datos** y **Desarrollo de Software**. A lo largo de mi carrera universitaria, he adquirido conocimientos 
 sólidos en estas áreas, y he aplicado estos conocimientos en diversos proyectos que puedes encontrar en este repositorio.
 
 ### 🎯 Áreas de Interés
@@ -11,13 +11,13 @@ sólidos en estas áreas, y he aplicado estos conocimientos en diversos proyecto
 - **Machine Learning**: Estoy comprometido en entender y desarrollar modelos que aprendan y mejoren a partir de datos.
 
 ### 🛠️ Tecnologías y Herramientas
-- **Lenguajes de Programación**: Python, Java, SQL
+- **Lenguajes de Programación**: Python (Flask), Java (SpringBoot), SQL, C# (.NET)
 - **Herramientas de Ciencia de Datos**: Pandas, NumPy, Matplotlib, Scikit-learn
 - **Seguridad Informática**: Informe de Analisis y reconocimiento de explotaciones web 
 - **Machine Learning**: Modelado predictivo, redes neuronales, algoritmos de clasificación
 
 ### 🌱 Actualmente, estoy buscando…
-Oportunidades de prácticas pre-profesionales donde pueda aplicar y expandir mis conocimientos en **Seguridad Informática**, **Ciencia de Datos** o **Machine Learning**. Estoy interesado en trabajar en proyectos desafiantes que me permitan crecer tanto profesional como personalmente.
+Oportunidades donde pueda aplicar y expandir mis conocimientos en **Seguridad Informática**,  **Programacion** ,**Ciencia de Datos** o **Machine Learning**. Estoy interesado en trabajar en proyectos desafiantes que me permitan crecer tanto profesional como personalmente.
 
 ### 📫 Contáctame
 - **Email**: [](zamudioxyz1808@gmail.com / correozamudio3210@gmail.com )
